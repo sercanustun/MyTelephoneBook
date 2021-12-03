@@ -15,14 +15,14 @@
               <MenuItem mnemonicParsing="false" text="Kapat" />
             </items>
           </Menu>
-          <Menu mnemonicParsing="false" text="Düzenle">
+          <Menu mnemonicParsing="false" text="Güncelle">
             <items>
               <MenuItem mnemonicParsing="false" text="Sil" />
             </items>
           </Menu>
           <Menu mnemonicParsing="false" text="Yardım">
             <items>
-              <MenuItem mnemonicParsing="false" text="Hakkında" />
+              <MenuItem mnemonicParsing="false" text="Hakkında ..." />
             </items>
           </Menu>
         </menus>
